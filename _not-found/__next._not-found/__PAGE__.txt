@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[5233,["/chappuis-site/_next/static/chunks/0~pnrhzmlpj80.js","/chappuis-site/_next/static/chunks/0xgb1sq7gqnyb.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex min-h-screen flex-col items-center justify-center px-4 text-center","children":[["$","h1",null,{"className":"mb-2 text-6xl font-extrabold text-gray-900","children":"404"}],["$","p",null,{"className":"mb-6 text-lg text-gray-600","children":"Cette page n'existe pas."}],["$","a",null,{"href":"/","className":"rounded-xl bg-blue-600 px-6 py-3 font-semibold text-white transition hover:bg-blue-700","children":"Retour à l'accueil"}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DRfQTjTO4ac1XiOHfHW7n"}
+4:null
